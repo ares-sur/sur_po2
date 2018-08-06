@@ -6,6 +6,11 @@ import java.util.Map;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.SelectProvider;
 
+/**
+ * @UpdateProvider
+ * @author Administrator
+ *
+ */
 @Mapper
 public interface TestMapper {
 
